@@ -11,7 +11,6 @@
 
 ---
 
-# 📌 BAB 1 - PENDAHULUAN
 
 ## Latar Belakang
 
@@ -47,7 +46,6 @@ Salah satu metode yang digunakan dalam pemilihan umum adalah prediksi popularita
 
 ---
 
-# 📚 BAB 2 - KAJIAN TEORI
 
 ## Analisis Sentimen
 
@@ -67,7 +65,6 @@ SVM adalah algoritma klasifikasi yang bertujuan menemukan batas keputusan optima
 
 ---
 
-# 🧪 BAB 3 - METODE PENELITIAN
 
 ## Metode Penelitian
 
@@ -91,7 +88,6 @@ Mengambil sampel dari media sosial Twitter yang mengandung kata kunci:
 
 ---
 
-# 📊 BAB 4 - HASIL DAN PEMBAHASAN
 
 ## Hasil Penelitian
 
@@ -146,7 +142,6 @@ Hasil penelitian menunjukkan bahwa tingkat akurasi SVM mencapai 97%, sedangkan N
 
 ---
 
-# 📝 BAB 5 - KESIMPULAN DAN SARAN
 
 ## Kesimpulan
 
