@@ -103,7 +103,7 @@ Hasil penelitian menunjukkan bahwa tingkat akurasi SVM mencapai 97%, sedangkan N
 
 ### Text Cleaning
 
-<img src="slide/teks_clean.png" width="700">
+<img src="slide/teks clean.png" width="700">
 
 ### Tokenizing
 
@@ -179,8 +179,6 @@ Hasil ini mencerminkan persentase popularitas masing-masing calon presiden berda
 
 **Fadli Nurrizky**
 
-GitHub: [https://github.com/](https://github.com/)
-LinkedIn: [https://linkedin.com/](https://linkedin.com/)
 
 ---
 
